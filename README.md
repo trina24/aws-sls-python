@@ -1,5 +1,5 @@
 # aws-sls-python
-Ubuntu-based Docker image with Python 3, aws-cli and serverless framework 
+Ubuntu-based Docker image with Python 3.7, aws-cli and serverless framework 
 
 ### Use case
 This image allows to deploy Python applications based on [serverless framework](https://serverless.com/framework/) to AWS.
