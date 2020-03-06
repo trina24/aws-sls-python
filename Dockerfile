@@ -4,4 +4,4 @@ RUN apt-get update && apt-get install -y python3.7 python3-pip jq curl \
 && curl -sL https://deb.nodesource.com/setup_12.x | bash - \
 && apt-get install -y nodejs \
 && npm config set unsafe-perm true \
-&& npm -g install serverless
+&& npm -g install serverless@1.61.1
